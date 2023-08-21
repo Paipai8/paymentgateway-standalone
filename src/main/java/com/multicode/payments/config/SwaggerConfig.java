@@ -25,7 +25,7 @@ public class SwaggerConfig {
     public ApiInfo generateApiInfo() {
         return new ApiInfoBuilder()
                 .title("Payments API-BAI")
-                .description("API for payments gateway")
+                .description("API for payments gateway-change")
                 .build();
     }
 }
